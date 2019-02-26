@@ -46,6 +46,7 @@ public class ReusableMethods
 	
 	public void waitFor(int seconds) throws InterruptedException
 	{
+		System.out.println("Waiting for "+String.valueOf(seconds)+" Seconds");
 		Thread.sleep(seconds * 1000);
 	}
 
