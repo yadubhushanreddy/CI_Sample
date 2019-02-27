@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="6836" started-at="2019-02-25T13:03:43Z" finished-at="2019-02-25T13:03:50Z">
+  <suite name="Suite" duration-ms="8378" started-at="2019-02-27T04:58:56Z" finished-at="2019-02-27T04:59:05Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="6836" started-at="2019-02-25T13:03:43Z" finished-at="2019-02-25T13:03:50Z">
+    <test name="Test" duration-ms="8378" started-at="2019-02-27T04:58:56Z" finished-at="2019-02-27T04:59:05Z">
       <class name="com.pramati.selenium.tests.Tests">
-        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.pramati.selenium.tests.Tests@24273305]" name="testCase1" duration-ms="6820" started-at="2019-02-25T18:33:43Z" finished-at="2019-02-25T18:33:50Z">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.pramati.selenium.tests.Tests@24273305]" name="testCase1" duration-ms="8361" started-at="2019-02-27T10:28:56Z" finished-at="2019-02-27T10:29:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase1 -->
