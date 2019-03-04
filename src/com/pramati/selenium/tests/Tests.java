@@ -14,6 +14,8 @@ public class Tests
   {
 	  reuse.openBrowser("Chrome");
 	  reuse.waitFor(4);
+	  reuse.navigateUrl("http://newtours.demoaut.com/");
+	  reuse.waitFor(4);
 	  reuse.closeBrowser();	  
   }
 }
